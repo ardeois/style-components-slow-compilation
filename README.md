@@ -9,7 +9,7 @@ yarn build
 ```
 
 ### Results
-The file takes 19 second to compile and the generated `index.d.ts` is 1.2 MB:
+The file takes 19 second to compile and the generated declaration file `index.d.ts` is 1.2 MB:
 
 ```
 $ ls -lah dist
