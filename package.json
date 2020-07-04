@@ -1,0 +1,16 @@
+{
+  "name": "style-components-slow-compilation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@styled-system/css": "^5.1.5",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {
+    "@types/styled-system__css": "^5.0.11"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
